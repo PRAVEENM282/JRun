@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "request": "launch",
+            "name": "Run UnifiedCompiler App",
+            "mainClass": "com.UnifiedCompiler.App",
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "args": ["example.cpp"]
+        }
+    ]
+}
